@@ -6,6 +6,7 @@
         "mikrotik"
     ],
     "type": "library",
+	"license": "DITE",
 	"authors": [
         {
             "name": "Dite",
@@ -24,5 +25,5 @@
         "branch-alias": {
             "dev-master": "1.0-dev"
         }
-    },
+    }
 }
