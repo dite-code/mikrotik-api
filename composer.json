@@ -1,0 +1,18 @@
+{
+    "name": "dite-code/mikrotik-api",
+    "description": "API untuk Mikrotik",
+    "type": "library",
+    "license": "DITE",
+    "authors": [
+        {
+            "name": "Dite",
+            "email": "edycadas@gmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Dite-code\\Mikrotik-api\\": "src/"
+		}
+	}
+}
