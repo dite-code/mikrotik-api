@@ -2,4 +2,8 @@
 
 Cara Pakai API Mikrotik
 
--contoh
+## Install
+
+``` ts
+composer dite-code/mikrotik-api
+```
