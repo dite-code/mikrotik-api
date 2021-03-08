@@ -20,10 +20,5 @@
         "classmap": [
             "routeros_api.class.php"
         ]
-    },
-	"extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
     }
 }
