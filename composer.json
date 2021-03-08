@@ -13,6 +13,8 @@
             "email": "edycadas@gmail.com"
         }
     ],
+    "minimum-stability": "dev-master",
+    "prefer-stable": true,
     "require": {}, 
     "autoload": {
         "classmap": [
