@@ -6,7 +6,6 @@
         "mikrotik"
     ],
     "type": "library",
-	"license": "MIT",
 	"authors": [
         {
             "name": "Dite",
