@@ -6,14 +6,13 @@
         "mikrotik"
     ],
     "type": "library",
+	"license": "MIT",
 	"authors": [
         {
             "name": "Dite",
             "email": "edycadas@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
-    "prefer-stable": true,
     "require": {}, 
     "autoload": {
         "classmap": [
