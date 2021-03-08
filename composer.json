@@ -11,6 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {}, 
+    "prefer-stable": true,
     "autoload": {
 		"psr-4": {
 			"Dite-code\\Mikrotik-api\\": "src/"
