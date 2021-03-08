@@ -1,20 +1,23 @@
 {
     "name": "dite-code/mikrotik-api",
     "description": "API Untuk Mikrotik",
+    "keywords": [
+        "routeros",
+        "mikrotik"
+    ],
     "type": "library",
-    "license": "MIT",
-    "authors": [
+	"authors": [
         {
             "name": "Dite",
             "email": "edycadas@gmail.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}, 
     "prefer-stable": true,
+    "require": {}, 
     "autoload": {
-		"psr-4": {
-			"Dite-code\\Mikrotik-api\\": "src/"
-		}
-	}
+        "classmap": [
+            "routeros_api.class.php"
+        ]
+    }
 }
