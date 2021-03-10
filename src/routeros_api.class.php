@@ -1,4 +1,5 @@
 <?php
+
 /*****************************
  *
  * RouterOS PHP API class v1.6
@@ -14,6 +15,8 @@
  * http://wiki.mikrotik.com/wiki/API_PHP_class
  *
  ******************************/
+
+namespace MikrotikAPI
 
 class RouterosAPI
 {

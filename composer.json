@@ -17,8 +17,8 @@
     "prefer-stable": true,
     "require": {}, 
     "autoload": {
-        "classmap": [
-            "routeros_api.class.php"
-        ]
-    }
+		"psr-4": {
+			"MikrotikAPI\\": "./src/"
+		}    
+	}
 }
